@@ -1,0 +1,7 @@
+{
+	"extends": ["../../.eslintrc.json", "neon/react", "neon/prettier"],
+	"rules": {
+		"import/no-deprecated": 0,
+		"react/style-prop-object": 0
+	}
+}

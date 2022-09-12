@@ -1,0 +1,13 @@
+[33mmobile:format[0m: cache hit, replaying output [2mfcab77e8efc3d5a3[0m
+[33mmobile:format: [0m.eslintrc.json 44ms
+[33mmobile:format: [0m.expo-shared/assets.json 4ms
+[33mmobile:format: [0mapp.json 4ms
+[33mmobile:format: [0mbabel.config.js 14ms
+[33mmobile:format: [0mpackage.json 4ms
+[33mmobile:format: [0msrc/App.tsx 290ms
+[33mmobile:format: [0mtsconfig.eslint.json 3ms
+[33mmobile:format: [0mtsconfig.json 3ms
+[33mmobile:format: [0m
+[33mmobile:format: [0mError while parsing /home/almeidx/nlw-esports/node_modules/react-native/index.js
+[33mmobile:format: [0mLine 14, column 32: ';' expected.
+[33mmobile:format: [0m`parseForESLint` from parser `/home/almeidx/nlw-esports/node_modules/@typescript-eslint/parser/dist/index.js` is invalid and will just be ignored

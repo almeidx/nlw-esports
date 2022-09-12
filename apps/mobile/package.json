@@ -1,0 +1,27 @@
+{
+	"name": "mobile",
+	"private": true,
+	"main": "node_modules/expo/AppEntry.js",
+	"scripts": {
+		"start": "expo start",
+		"lint": "prettier --check . && eslint src --ext ts,tsx",
+		"format": "prettier --write . && eslint src --ext ts,tsx --fix",
+		"android": "expo start --android",
+		"ios": "expo start --ios",
+		"web": "expo start --web"
+	},
+	"dependencies": {
+		"expo": "~46.0.10",
+		"expo-status-bar": "~1.4.0",
+		"react": "18.0.0",
+		"react-dom": "18.0.0",
+		"react-native": "0.69.5",
+		"react-native-web": "~0.18.9"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.19.0",
+		"@types/react": "~18.0.19",
+		"@types/react-native": "~0.69.8",
+		"typescript": "~4.8.3"
+	}
+}
