@@ -1,7 +1,0 @@
-[32mserver:format[0m: cache hit, replaying output [2m5a8f9003afa32a86[0m
-[32mserver:format: [0m.eslintrc.json 34ms
-[32mserver:format: [0m.prettierrc.cjs 8ms
-[32mserver:format: [0mpackage.json 5ms
-[32mserver:format: [0msrc/index.ts 273ms
-[32mserver:format: [0mtsconfig.eslint.json 3ms
-[32mserver:format: [0mtsconfig.json 3ms

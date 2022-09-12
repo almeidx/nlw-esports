@@ -1,2 +1,3 @@
-# nlw-esports
-# nlw-esports
+# NLW ESports
+
+[NLW](https://lp.rocketseat.com.br/nlw)
