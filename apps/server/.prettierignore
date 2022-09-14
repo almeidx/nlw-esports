@@ -1,2 +1,5 @@
 .turbo
 dist
+
+prisma/data
+prisma/migrations
