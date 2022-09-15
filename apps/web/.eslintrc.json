@@ -1,6 +1,13 @@
 {
 	"root": true,
-	"extends": ["neon/common", "neon/browser", "neon/typescript", "neon/react", "neon/prettier"],
+	"extends": [
+		"neon/common",
+		"neon/browser",
+		"neon/typescript",
+		"neon/react",
+		"neon/prettier",
+		"plugin:tailwindcss/recommended"
+	],
 	"ignorePatterns": ["node_modules/*", "**/vite-env.d.ts"],
 	"parserOptions": {
 		"project": "./tsconfig.eslint.json"
