@@ -6,7 +6,10 @@ interface GameBannerProps {
 
 export function GameBanner({ adCount, bannerUrl, title }: GameBannerProps) {
 	return (
-		<a href="" className="relative overflow-hidden rounded-lg">
+		<a
+			href={`https://twitch.tv/directory/game/${encodeURIComponent(title)}`}
+			className="relative overflow-hidden rounded-lg"
+		>
 			<img src={bannerUrl} alt="" />
 
 			<div className="bg-game-gradient absolute inset-x-0 bottom-0 w-full px-4 pt-16 pb-4">

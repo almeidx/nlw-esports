@@ -1,3 +1,4 @@
 {
-	"cSpell.words": ["esbuild", "outdir", "tailwindcss"]
+	"cSpell.words": ["esbuild", "outdir", "tailwindcss"],
+	"typescript.preferences.importModuleSpecifierEnding": "minimal"
 }
